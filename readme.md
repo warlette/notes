@@ -1,6 +1,8 @@
-#npm clean
+# npm clean
 
-`rm ./package-lock.json`
-`rm -r ./node_modules`
-`npm cache clear --force`
+npm - using stale package data
+
+`rm ./package-lock.json`<br/>
+`rm -r ./node_modules`<br/>
+`npm cache clear --force`<br/>
 
